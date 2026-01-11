@@ -17,20 +17,26 @@ Real-time dashboard for tracking multiple Aerodrome pools on Base using [Dex Scr
 - Git
 
 ### 1. Install dependencies
-```bash
+```
+bash
 pip3 install -r requirements.txt
 # OR install individually:
-# pip3 install streamlit requests pandas plotly```
+# pip3 install streamlit requests pandas plotly
+```
 
 ### 2. Add streamlit to PATH (Linux/macOS)
 
-```bash
-export PATH=$PATH:~/.local/bin```
+```
+bash
+export PATH=$PATH:~/.local/bin
+```
 
 ### 3. Run the app
 
-```bash
-streamlit run Aerodrome_Pool_Tracker.py```
+```
+bash
+streamlit run Aerodrome_Pool_Tracker.py
+```
 
 ### 4. Open your browser
 
